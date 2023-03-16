@@ -1,6 +1,8 @@
 # Hi there, I'm Emmanuel 🚀👨🏾‍💻
 
-I'm a data scientist with a passion for using data to drive insights and inform decision-making.<br/> My expertise lies in building machine learning models, data analysis, and data visualization.
+I am a highly motivated Frontend Developer passionate about creating elegant and functional user interfaces. With 3 years of experience working on various web development projects, I am proficient in HTML, CSS, JavaScript, and ReactJS a popular front-end frameworks.
+
+I am also an aspiring Data Scientist with a strong mathematics, statistics, and machine learning background. I am constantly seeking to expand my knowledge in these areas through online courses and personal projects. My ultimate goal is to combine my front-end development skills with my passion for data analysis to create insightful and intuitive data visualizations that help businesses make informed decisions.
 
 ## 🧰 Tools and Technologies
 
