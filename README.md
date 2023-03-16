@@ -13,7 +13,7 @@ I am also an aspiring Data Scientist with a strong mathematics, statistics, and 
 * Other Tools: Git, Jupyter Notebook, Visual Studio Code
 
 ## 🌱 What I'm Currently Learning
-
+* The World of Web3 🚀⚡️
 * Advanced machine learning techniques, such as deep learning and natural language processing.
 * Best practices in data ethics and responsible AI.
 
