@@ -1,4 +1,4 @@
-# Hi there, I'm Emmanuel 🚀👨🏾‍💻
+# Hi there, I'm Manny 🚀👨🏾‍💻
 
 I am a highly motivated Frontend Developer passionate about creating elegant and functional user interfaces. With 3 years of experience working on various web development projects, I am proficient in HTML, CSS, JavaScript, and ReactJS a popular front-end frameworks.
 
