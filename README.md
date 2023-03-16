@@ -6,7 +6,7 @@ I am also an aspiring Data Scientist with a strong mathematics, statistics, and 
 
 ## 🧰 Tools and Technologies
 
-* Programming Languages: Python, SQL
+* Programming Languages: Python, SQL, HTML & CSS, Javascript, ReactJS, NodeJS, TailwindCSS
 * Data Science Libraries: pandas, NumPy, scikit-learn, TensorFlow, Keras, PyTorch
 * Data Visualization Tools: Matplotlib, Seaborn, Plotly
 * Databases: MySQL
