@@ -20,7 +20,7 @@ I am also an aspiring Data Scientist with a strong mathematics, statistics, and 
 ## 💬 Get in Touch
 
 * LinkedIn: https://www.linkedin.com/in/developedbymanny/
-* Twitter: https://twitter.com/developedbypy
+* Twitter: https://twitter.com/developedbycode
 * Youtube: https://www.youtube.com/@developedbypy
 
 Feel free to reach out to me for collaborations, job opportunities, or just to chat about all things data!
