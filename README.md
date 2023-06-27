@@ -1,6 +1,6 @@
-# Hi there, I'm Manny 🚀👨🏾‍💻
 
-## Introduction
+
+# Introduction
 
 Hello there! Welcome to my GitHub profile. I am a Computer Science student at Rockland Community College, with a keen interest in AI/ML, electric cars, and self-driving technology. Here, you'll find a collection of my projects, experiments, and contributions related to these fascinating fields.
 
