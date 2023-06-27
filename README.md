@@ -1,21 +1,13 @@
 # Hi there, I'm Manny 🚀👨🏾‍💻
 
-I am a highly motivated Frontend Developer passionate about creating elegant and functional user interfaces. With 3 years of experience working on various web development projects, I am proficient in HTML, CSS, JavaScript, and ReactJS a popular front-end frameworks.
+## Introduction
 
-I am also an aspiring Data Scientist with a strong mathematics, statistics, and machine learning background. I am constantly seeking to expand my knowledge in these areas through online courses and personal projects. My ultimate goal is to combine my front-end development skills with my passion for data analysis to create insightful and intuitive data visualizations that help businesses make informed decisions.
+Hello there! Welcome to my GitHub profile. I am a Computer Science student at Rockland Community College, with a keen interest in AI/ML, electric cars, and self-driving technology. Here, you'll find a collection of my projects, experiments, and contributions related to these fascinating fields.
 
-## 🧰 Tools and Technologies
+## About Me
 
-* Programming Languages: Python, SQL, HTML & CSS, Javascript, ReactJS, NodeJS, TailwindCSS
-* Data Science Libraries: pandas, NumPy, scikit-learn, TensorFlow, Keras, PyTorch
-* Data Visualization Tools: Matplotlib, Seaborn, Plotly
-* Databases: MySQL
-* Other Tools: Git, Jupyter Notebook, Visual Studio Code
+I am passionate about exploring the frontiers of artificial intelligence and machine learning. I believe in the potential of these technologies to transform various industries and solve complex problems. Additionally, I am fascinated by the advancements in electric cars and self-driving technology, as they hold the promise of a sustainable and efficient future.
 
-## 🌱 What I'm Currently Learning
-* The World of Web3 🚀⚡️
-* Advanced machine learning techniques, such as deep learning and natural language processing.
-* Best practices in data ethics and responsible AI.
 
 ## 💬 Get in Touch
 
@@ -23,4 +15,6 @@ I am also an aspiring Data Scientist with a strong mathematics, statistics, and 
 * Twitter: https://twitter.com/developedbycode
 * Youtube: https://www.youtube.com/@developedbymanny
 
-Feel free to reach out to me for collaborations, job opportunities, or just to chat about all things data!
+I am excited to connect with like-minded individuals, researchers, and developers who share a passion for AI/ML, electric cars, and self-driving technology. Let's learn and grow together!
+
+Thank you for visiting my GitHub profile, and I hope you find something interesting and inspiring here. Happy coding!
