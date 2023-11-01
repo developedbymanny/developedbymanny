@@ -12,7 +12,6 @@ I am passionate about exploring the frontiers of artificial intelligence and mac
 ## 💬 Get in Touch
 
 * LinkedIn: https://www.linkedin.com/in/developedbymanny/
-* Twitter: https://twitter.com/developedbycode
 * Youtube: https://www.youtube.com/@developedbymanny
 
 I am excited to connect with like-minded individuals, researchers, and developers who share a passion for AI/ML, electric cars, and self-driving technology. Let's learn and grow together!
