@@ -17,4 +17,4 @@ I am passionate about exploring the frontiers of artificial intelligence and mac
 
 I am excited to connect with like-minded individuals, researchers, and developers who share a passion for AI/ML, electric cars, and self-driving technology. Let's learn and grow together!
 
-Thank you for visiting my GitHub profile, and I hope you find something interesting and inspiring here. Happy Building 🛠️!
+Thank you for visiting my GitHub profile, and I hope you find something interesting and inspiring here. Happy Building! 🛠️
