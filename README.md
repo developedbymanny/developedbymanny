@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Manny!
+# 👷🏾‍♂️ Hey, I'm Manny!
 
 🌆 Living in the city that never sleeps, New York City.
 
