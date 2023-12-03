@@ -6,7 +6,10 @@
 
 🌐 [LinkedIn](https://www.linkedin.com/in/developedbymanny/)
 
----
+## Currently Learning
+
+**Java Programming** ☕️
+
 
 ## 🚀 About Me
 
