@@ -1,4 +1,4 @@
-# Hi there, I'm Emmanuel! ⚡️
+# Hi there, I'm Manny! ⚡️
 
 Welcome to my GitHub profile! I'm Emmanuel, but everyone calls me Manny. I'm a passionate software developer and tech enthusiast based in New York.
 
